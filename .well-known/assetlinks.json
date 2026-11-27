@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.siredwardsquiz",
+      "sha256_cert_fingerprints": [
+        "55:E1:4E:C4:B6:C2:18:DA:46:7E:35:41:4C:39:0A:60:48:A8:FA:BB:F9:5D:F3:16:4E:37:06:EE:64:8A:6F:77"
+      ]
+    }
+  }
+]
